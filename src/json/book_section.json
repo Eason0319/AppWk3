@@ -1,0 +1,65 @@
+[
+   {
+      "title": "Popular Books",
+      "horizontal": true,
+      "data": [
+         {
+            "title": "Fashionopolis",
+            "artist": "Dana Thomas",
+            "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+            "starDisplay": false,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img1.png?raw=true",
+            "description": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\"."
+         },
+         {
+            "title": "Chanel",
+            "artist": "Patrick Mauriès",
+            "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+            "starDisplay": false,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img2.png?raw=true",
+            "description": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\"."
+         },
+         {
+            "title": "Calligraphy",
+            "artist": "June & Lucy",
+            "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+            "starDisplay": false,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img3.png?raw=true",
+            "description": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\"."
+         }
+      ]
+   },
+   {
+      "title": "Newest",
+      "horizontal": true,
+      "data": [
+         {
+            "title": "Yves Saint Laurent",
+            "artist": "Suzy Menkes",
+            "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+            "starDisplay": true,
+            "star": 4,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img4.png?raw=true",
+            "description": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         },
+         {
+            "title": "The Book of Signs",
+            "artist": "Rudolf Koch",
+            "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+            "starDisplay": true,
+            "star": 3,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img5.png?raw=true",
+            "description": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\"."
+         },
+         {
+            "title": "Stitched Up",
+            "artist": "Tansy E. Hoskins",
+            "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+            "starDisplay": true,
+            "star": 3,
+            "image": "https://github.com/Eason0319/AppWk3/blob/main/src/img/img6.png?raw=true",
+            "description": "Taylor Swift has been enhanced by the addition of 3 brand new tracks (\"I'm Only Me When I'm With You\", \"Invisible\", \"A Perfectly Good Heart\") and a pop version of the hit single \"Teardrops On My Guitar\"."
+         }
+      ]
+   }
+]
